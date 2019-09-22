@@ -1,7 +1,9 @@
 # linux-
 学习linux相关的链接
 
-[readme应该怎么写](https://github.com/guodongxiaren/README#%E9%93%BE%E6%8E%A5)
+[readme应该怎么写1](https://github.com/guodongxiaren/README#%E9%93%BE%E6%8E%A5)
+
+[readme应该怎么写2](https://www.cnblogs.com/wj-1314/p/8547763.html)
 
 [学长的实验室小白攻略](https://github.com/iyuge2/lab-study)
 
