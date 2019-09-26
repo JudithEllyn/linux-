@@ -55,6 +55,12 @@ ps:gbk用于汉字，utf-8用于所有语言
 [十分钟入门Matplotlib](https://codingpy.com/article/a-quick-intro-to-matplotlib/)  
 
 
+**scikit-learn**(机器学习库)  
+[scikit-learn官方文档](https://sklearn.apachecn.org/)
+[scikit-learn机器学习教程](https://www.jianshu.com/p/aff76d66b5fe)
 
-
+***git在linux中怎么使用***
+github账号：JudithEllyn，213*14*y*
+git账号：zyl,zhuzhu19990***
+[廖雪峰--git用法，远程连接](https://www.liaoxuefeng.com/wiki/896043488029600/898732864121440#0)
 
