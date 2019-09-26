@@ -25,11 +25,14 @@ tmux每次只打开一个会话，不要重复打开多个会话，一个会话�
 
 几个必会的python包
 
-**numpy**
+**numpy** (处理矩阵，进行数值操作)
 
 [numpy](https://www.numpy.org.cn/) 数值操作包
 
-**pandas**
+[numpy的random函数用法](https://www.jianshu.com/p/214798dd8f93)
+
+
+**pandas**  (可以处理CSV等表格文件，处理数据、过滤数据，相当于数据库的处理)
 
 [pandas文档](https://www.pypandas.cn/docs/) 数据预处理包
 
@@ -42,5 +45,16 @@ CSV是最通用的一种文件格式，是文本文件，它可以非常容易�
 
 [utf-8、gbk等编码](https://dailc.github.io/2017/05/17/severalCommonlyCharEncoding.html)
 ps:gbk用于汉字，utf-8用于所有语言
+
+
+**matplotlib**  (绘图库，数据可视化，类似matlab)
+
+[matplotlib中文文档](https://www.matplotlib.org.cn/)  
+[matplotlib菜鸟教程(粗略)](https://www.runoob.com/numpy/numpy-matplotlib.html)  
+[matplotlib菜鸟教程(细致文档，标记等)](https://www.runoob.com/w3cnote/matplotlib-tutorial.html)  
+[十分钟入门Matplotlib](https://codingpy.com/article/a-quick-intro-to-matplotlib/)  
+
+
+
 
 
