@@ -9,6 +9,9 @@
 
 [linux常用的20条命令](https://blog.csdn.net/ljianhui/article/details/11100625)
 
+
+[jupyter快捷键](https://zhuanlan.zhihu.com/p/31051676)
+
 ***tmux——用于终端复用，同时处理几个窗口***
 
 tmux每次只打开一个会话，不要重复打开多个会话，一个会话中进行分屏或者打开几个窗口互相切换，在用jupyter lab时比较方便
@@ -18,6 +21,10 @@ tmux每次只打开一个会话，不要重复打开多个会话，一个会话�
 [十分钟学会tmux](https://www.cnblogs.com/kaiye/p/6275207.html)
 
 'ps:使用tmux命令前要用ctrl+b作为前缀'
+
+
+你可以想象操作系统，也就是只是一个机器，他并不知道你装的东西在哪，所以，需要你自己告诉他，但他会自己去加载一些默认的的文件，所以你需要将你自己装了的可执行文件路径写在那个默认文件中，然后，它就能知道了
+假如换了终端，那么终端的环境文件也和以前不一样，以前的环境文件时.bashrc，python变量添加在这个里面，但是现在的终端环境文件是.zshrc,就打开.bashrc,把最后一行添加到.zshrc的最后一行，最后用source命令让那个文件生效
 
 [linux下环境变量详解](https://segmentfault.com/a/1190000006446751)
 
@@ -63,4 +70,17 @@ ps:gbk用于汉字，utf-8用于所有语言
 github账号：JudithEllyn，213*14*y*
 git账号：zyl,zhuzhu19990***
 [廖雪峰--git用法，远程连接](https://www.liaoxuefeng.com/wiki/896043488029600/898732864121440#0)
+
+**深度学习**
+[机器学习实战教程](https://www.zybuluo.com/hanbingtao/note/433855)
+[比较全的各种教程（包括上面的深度学习）](https://cuijiahua.com/blog/2018/10/dl-7.html)
+
+**pytorch**
+[pytorch教程（含代码）](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+
+
+
+
+
+
 
