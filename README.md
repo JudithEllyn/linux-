@@ -10,7 +10,9 @@
 [linux常用的20条命令](https://blog.csdn.net/ljianhui/article/details/11100625)
 
 
-[jupyter快捷键](https://zhuanlan.zhihu.com/p/31051676)
+[jupyter快捷键](https://zhuanlan.zhihu.com/p/31051676)  
+windows中jupyter默认打开位置更改：  
+python所有的包都在scrip里，创建快捷方式到桌面，属性中打开位置改变一下就行了
 
 ***tmux——用于终端复用，同时处理几个窗口***
 
@@ -71,12 +73,7 @@ github账号：JudithEllyn，213*14*y*
 git账号：zyl,zhuzhu19990***
 [廖雪峰--git用法，远程连接](https://www.liaoxuefeng.com/wiki/896043488029600/898732864121440#0)
 
-**深度学习**
-[机器学习实战教程](https://www.zybuluo.com/hanbingtao/note/433855)
-[比较全的各种教程（包括上面的深度学习）](https://cuijiahua.com/blog/2018/10/dl-7.html)
 
-**pytorch**
-[pytorch教程（含代码）](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 
 
 
