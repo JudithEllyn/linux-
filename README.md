@@ -5,6 +5,8 @@
 
 [readme应该怎么写2](https://www.cnblogs.com/wj-1314/p/8547763.html)
 
+[markdown语法](https://www.jianshu.com/p/335db5716248)
+
 [学长的实验室小白攻略](https://github.com/iyuge2/lab-study)
 
 [linux常用的20条命令](https://blog.csdn.net/ljianhui/article/details/11100625)
